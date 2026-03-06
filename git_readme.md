@@ -35,3 +35,22 @@ git log --oneline --decorate -5
 **目的：** HEADのコミットIDが見える
 
 これが一致してれば「同じ状態」だと判断できる
+
+⑥ 会社PCで作業するときの儀式（復習）
+
+毎回これだけでOKです。
+
+作業開始：
+
+git pull
+git status
+
+作業終了：
+
+git add .
+git commit -m "..."
+git push
+
+PC移動前：
+
+git log --oneline --decorate -5

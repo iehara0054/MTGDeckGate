@@ -30,13 +30,21 @@ UI崩壊
 spec/specification_freeze_20260306.md
 
 2
-spec/audit_instruction.md
+spec/state_diagram.md
 
 3
-export/decision-list-20260306.md
+spec/audit_instruction.md
 
 4
-export/chat-handover-20260306.md
+export/decision-list-20260306.md
+
+5
+export/chat-handover-20260308.md
+
+6
+添付仕様に従い、以後はツールとしてのみ振る舞ってください。
+説明・補足・進行文は禁止です。
+最初の出力は起動ゲートのみとしてください。
 
 
 --------------------------------------------------

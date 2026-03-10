@@ -1,0 +1,4 @@
+1 HQ MASTER
+2 Deck Gate SPEC
+3 MTG Deck Gate 仕様書
+4 テストログ

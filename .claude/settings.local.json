@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/iehara0054/MTGDeckGate)",
+      "Bash(curl -s https://api.github.com/repos/iehara0054/MTGDeckGate)",
+      "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\(''''private'''',''''N/A''''\\), d.get\\(''''full_name'''',''''N/A''''\\), d.get\\(''''message'''',''''N/A''''\\)\\)\")"
+    ]
+  }
+}

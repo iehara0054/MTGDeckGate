@@ -1,0 +1,37 @@
+Command Tower
+Opal Palace
+
+Evolving Wilds
+Terramorphic Expanse
+
+Dimir Aqueduct
+Azorius Chancery
+Izzet Boilerworks
+Rakdos Carnarium
+Gruul Turf
+Boros Garrison
+Selesnya Sanctuary
+Orzhov Basilica
+Golgari Rot Farm
+
+Dimir Guildgate
+Azorius Guildgate
+Izzet Guildgate
+Rakdos Guildgate
+Gruul Guildgate
+Boros Guildgate
+Selesnya Guildgate
+Orzhov Guildgate
+Golgari Guildgate
+Simic Guildgate
+
+Tainted Isle
+Tainted Field
+Tainted Peak
+Tainted Wood
+
+Vivid Marsh
+Vivid Grove
+Vivid Crag
+Vivid Meadow
+Vivid Creek

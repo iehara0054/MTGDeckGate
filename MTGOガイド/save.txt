@@ -1,0 +1,29 @@
+==================================================
+【デッキ構築 エクスポートデータ】
+Version: 6.01.2
+統率者: Araumi of the Dead Tide
+色: 青 黒 ＋ 無色
+HR: HR1
+ブラケット: 2〜2.5
+方向性: 2（墓地コンボ寄り）
+
+現在工程: 墓地肥やし 2 / 12
+
+■ 採用済みカード（7枚）
+Arcane Signet
+Dimir Signet
+Talisman of Dominance
+Mind Stone
+Thought Vessel
+Wayfarer’s Bauble
+Fellwar Stone
+
+■ 枚数状況
+非土地枚数: 7 / 63
+ランプ枚数: 7 / 7
+墓地肥やし枚数: 0 / 8
+
+■ 未確定（aic提案中）
+墓地肥やし 8枚提案表示中
+
+==================================================

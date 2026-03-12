@@ -379,8 +379,6 @@ Deck Gate は
 
 8 デッキ編集
 
-9 停止
-
 [PATCH 2026-03-09]
 不正入力耐性（State Safe Guard）
 
@@ -665,24 +663,8 @@ aic → 起動ゲート
 デッキ状態破壊を引き起こすため
 禁止する。
 
---------------------------------------------------
-例外
---------------------------------------------------
-
-s コマンド
-
-のみ
-
-任意状態 → 停止
-
-を許可する。
-
 [PATCH 2026-03-10]
 UI完全固定（Full UI Lock）
-
-
-
-
 
 Deck Gate は
 各状態で
@@ -1065,10 +1047,15 @@ d（different）
 ct*（card text）
 cta（card text all）
 aic（AI choose）
-end
-s
-ls
+end（end category）
+ls（list deck）
+
+save（save data）
+中断して、後に再開するための
+セーブデータを作成します。
 ex（export）
+現在までのカードリストを
+MTGOインポート形式で出力する
 
 補足
 
@@ -1819,7 +1806,7 @@ Picked Cards
 Baleful Strix
 Crow of Dark Tidings
 Gray Merchant of Asphodel
-
+```
 
 --------------------------------------------------
 ユーザー操作

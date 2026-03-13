@@ -7,7 +7,7 @@ MTG Deck Gate
 
 本プロジェクトの正本仕様は
 
-spec/specification_freeze_20260306.md
+spec/specification_freeze.md
 
 とする。
 

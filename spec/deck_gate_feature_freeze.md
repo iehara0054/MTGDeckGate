@@ -2535,7 +2535,21 @@ Surprise Pick のみ
 ■ おすすめ度
 --------------------------------------------------
 
-★で表示
+おすすめ度は
+内部値 1〜5 の数値で管理する。
+
+UIでは
+★で表示する。
+
+内部値
+
+5
+4
+3
+2
+1
+
+表示
 
 ★★★★★
 ★★★★☆
@@ -2561,13 +2575,24 @@ Surprise Pick のみ
 ■ 方向性適合
 --------------------------------------------------
 
-数値＋語彙で表示する。
+方向性適合は
+内部値 1〜5 の数値で管理する。
+
+UIでは
+数値（語彙）
+の形式で表示する。
+
+内部値
 
 5 非常に高い
 4 高い
 3 普通
 2 低い
 1 非常に低い
+
+表示例
+
+🎯方向性適合 3（普通）
 
 --------------------------------
 候補操作
@@ -2698,15 +2723,19 @@ d
 
 短縮（フルスペル）
 
-ct（card text）  
+ct（card text）
 cta（card text all）
 
 aic（AI choose）
+aio（AI output）
+aid（AI different）
+aip*（AI pick）
+aicc（AI choose cancel）
+air*（AI remove）
 
-aio（AI output）  
-aip（AI pick）
+jump（jump）
 
-air（AI remove）
+ls（list deck）
 
 ex（export）
 

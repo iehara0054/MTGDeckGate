@@ -2776,7 +2776,7 @@ aip*（AI pick）
 aicc（AI choose cancel）
 air*（AI remove）
 
-jump（jump）
+jump カテゴリ終了
 
 ls（list deck）
 
